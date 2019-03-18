@@ -1,234 +1,213 @@
-Name ,Group,Decade,Population,subGroup,city_id,lastValue,lat,long,colour,rank
-Bar Hill,,1971,674,,,0,,,,11
-Bar Hill,,1981,2434,,,674,,,,10
-Bar Hill,,1991,4285,,,2434,,,,6
-Bar Hill,,2001,4233,,,4285,,,,6
-Bar Hill,,2011,4032,,,4233,,,,7
-Bassingbourn-cum-Kneesworth,,1801,948,,,0,,,,5
-Bassingbourn-cum-Kneesworth,,1811,982,,,948,,,,6
-Bassingbourn-cum-Kneesworth,,1821,1213,,,982,,,,6
-Bassingbourn-cum-Kneesworth,,1831,1446,,,1213,,,,5
-Bassingbourn-cum-Kneesworth,,1841,1774,,,1446,,,,5
-Bassingbourn-cum-Kneesworth,,1851,2148,,,1774,,,,5
-Bassingbourn-cum-Kneesworth,,1861,2213,,,2148,,,,4
-Bassingbourn-cum-Kneesworth,,1871,2730,,,2213,,,,3
-Bassingbourn-cum-Kneesworth,,1881,2717,,,2730,,,,3
-Bassingbourn-cum-Kneesworth,,1891,2629,,,2717,,,,3
-Bassingbourn-cum-Kneesworth,,1901,1234,,,2629,,,,7
-Bassingbourn-cum-Kneesworth,,1911,1201,,,1234,,,,7
-Bassingbourn-cum-Kneesworth,,1921,1136,,,1201,,,,7
-Bassingbourn-cum-Kneesworth,,1931,1138,,,1136,,,,7
-Bassingbourn-cum-Kneesworth,,1951,2687,,,1138,,,,3
-Bassingbourn-cum-Kneesworth,,1961,2653,,,2687,,,,5
-Bassingbourn-cum-Kneesworth,,1971,3016,,,2653,,,,6
-Bassingbourn-cum-Kneesworth,,1981,4249,,,3016,,,,5
-Bassingbourn-cum-Kneesworth,,1991,3439,,,4249,,,,7
-Bassingbourn-cum-Kneesworth,,2001,4005,,,3439,,,,7
-Bassingbourn-cum-Kneesworth,,2011,3583,,,4005,,,,9
-Brampton,,1801,780,,,0,,,,8
-Brampton,,1811,809,,,780,,,,8
-Brampton,,1821,1064,,,809,,,,7
-Brampton,,1831,1064,,,1064,,,,8
-Brampton,,1841,1164,,,1064,,,,9
-Brampton,,1851,1281,,,1164,,,,8
-Brampton,,1861,1270,,,1281,,,,8
-Brampton,,1871,1188,,,1270,,,,8
-Brampton,,1881,1203,,,1188,,,,8
-Brampton,,1891,1075,,,1203,,,,8
-Brampton,,1901,1020,,,1075,,,,9
-Brampton,,1911,895,,,1020,,,,9
-Brampton,,1921,930,,,895,,,,9
-Brampton,,1931,1031,,,930,,,,9
-Brampton,,1951,1718,,,1031,,,,8
-Brampton,,1961,3068,,,1718,,,,3
-Brampton,,1971,4494,,,3068,,,,3
-Brampton,,1981,4363,,,4494,,,,3
-Brampton,,1991,4508,,,4363,,,,4
-Brampton,,2001,5030,,,4508,,,,5
-Brampton,,2011,4862,,,5030,,,,6
-Buckden,,1801,869,,,0,,,,6
-Buckden,,1811,924,,,869,,,,7
-Buckden,,1821,973,,,924,,,,8
-Buckden,,1831,1095,,,973,,,,7
-Buckden,,1841,1209,,,1095,,,,8
-Buckden,,1851,1172,,,1209,,,,9
-Buckden,,1861,1099,,,1172,,,,10
-Buckden,,1871,1009,,,1099,,,,10
-Buckden,,1881,1044,,,1009,,,,10
-Buckden,,1891,1048,,,1044,,,,9
-Buckden,,1901,1021,,,1048,,,,8
-Buckden,,1911,995,,,1021,,,,8
-Buckden,,1921,998,,,995,,,,8
-Buckden,,1931,1037,,,998,,,,8
-Buckden,,1951,1057,,,1037,,,,9
-Buckden,,1961,1158,,,1057,,,,9
-Buckden,,1971,2010,,,1158,,,,8
-Buckden,,1981,2604,,,2010,,,,8
-Buckden,,1991,2457,,,2604,,,,10
-Buckden,,2001,2515,,,2457,,,,10
-Buckden,,2011,2805,,,2515,,,,11
-Burwell,,1841,1705,,,0,,,,7
-Burwell,,1851,2040,,,1705,,,,6
-Burwell,,1861,1876,,,2040,,,,6
-Burwell,,1871,2023,,,1876,,,,6
-Burwell,,1881,2023,,,2023,,,,5
-Burwell,,1891,2023,,,2023,,,,5
-Burwell,,1901,2023,,,2023,,,,4
-Burwell,,1911,2023,,,2023,,,,5
-Burwell,,1921,2023,,,2023,,,,5
-Burwell,,1931,2023,,,2023,,,,6
-Burwell,,1951,2023,,,2023,,,,6
-Burwell,,1961,2734,,,2023,,,,4
-Burwell,,1971,4032,,,2734,,,,4
-Burwell,,1981,4257,,,4032,,,,4
-Burwell,,1991,4531,,,4257,,,,3
-Burwell,,2001,5833,,,4531,,,,3
-Burwell,,2011,6309,,,5833,,,,4
-Cambourne,,2011,8186,,,0,,,,3
-Chatteris,,1801,2393,,,0,,,,2
-Chatteris,,1811,2580,,,2393,,,,2
-Chatteris,,1821,3280,,,2580,,,,2
-Chatteris,,1831,4177,,,3280,,,,2
-Chatteris,,1841,4813,,,4177,,,,2
-Chatteris,,1851,5138,,,4813,,,,2
-Chatteris,,1861,4731,,,5138,,,,2
-Chatteris,,1871,4765,,,4731,,,,2
-Chatteris,,1881,4712,,,4765,,,,2
-Chatteris,,1891,4587,,,4712,,,,2
-Chatteris,,1901,4711,,,4587,,,,2
-Chatteris,,1911,5259,,,4711,,,,2
-Chatteris,,1921,5084,,,5259,,,,2
-Chatteris,,1931,5153,,,5084,,,,2
-Chatteris,,1951,5552,,,5153,,,,2
-Chatteris,,1961,5505,,,5552,,,,2
-Chatteris,,1971,5578,,,5505,,,,2
-Chatteris,,1981,6215,,,5578,,,,2
-Chatteris,,1991,7138,,,6215,,,,2
-Chatteris,,2001,8820,,,7138,,,,2
-Chatteris,,2011,10453,,,8820,,,,2
-Cottenham,,1801,1088,,,0,,,,3
-Cottenham,,1811,1224,,,1088,,,,3
-Cottenham,,1821,1488,,,1224,,,,3
-Cottenham,,1831,1635,,,1488,,,,4
-Cottenham,,1841,1833,,,1635,,,,4
-Cottenham,,1851,2314,,,1833,,,,3
-Cottenham,,1861,2415,,,2314,,,,3
-Cottenham,,1871,2496,,,2415,,,,4
-Cottenham,,1881,2458,,,2496,,,,4
-Cottenham,,1891,2517,,,2458,,,,4
-Cottenham,,1901,2393,,,2517,,,,3
-Cottenham,,1911,2416,,,2393,,,,3
-Cottenham,,1921,2470,,,2416,,,,4
-Cottenham,,1931,2386,,,2470,,,,4
-Cottenham,,1951,2440,,,2386,,,,4
-Cottenham,,1961,2415,,,2440,,,,7
-Cottenham,,1971,3540,,,2415,,,,5
-Cottenham,,1981,4125,,,3540,,,,6
-Cottenham,,1991,4393,,,4125,,,,5
-Cottenham,,2001,5652,,,4393,,,,4
-Cottenham,,2011,6095,,,5652,,,,5
-Downham,,1801,844,,,0,,,,7
-Downham,,1811,1144,,,844,,,,4
-Downham,,1821,1350,,,1144,,,,5
-Downham,,1831,1722,,,1350,,,,3
-Downham,,1841,2140,,,1722,,,,3
-Downham,,1851,2299,,,2140,,,,4
-Downham,,1861,2158,,,2299,,,,5
-Downham,,1871,2201,,,2158,,,,5
-Downham,,1881,1965,,,2201,,,,6
-Downham,,1891,1873,,,1965,,,,6
-Downham,,1901,1801,,,1873,,,,5
-Downham,,1911,1887,,,1801,,,,6
-Downham,,1921,1991,,,1887,,,,6
-Downham,,1931,2044,,,1991,,,,5
-Downham,,1951,1905,,,2044,,,,7
-Downham,,1961,1800,,,1905,,,,8
-Downham,,1971,1816,,,1800,,,,9
-Downham,,1981,1948,,,1816,,,,11
-Downham,,1991,2169,,,1948,,,,11
-Downham,,2001,2409,,,2169,,,,11
-Downham,,2011,2589,,,2409,,,,12
-Elm,,1801,951,,,0,,,,4
-Elm,,1811,1020,,,951,,,,5
-Elm,,1821,1368,,,1020,,,,4
-Elm,,1831,1410,,,1368,,,,6
-Elm,,1841,1742,,,1410,,,,6
-Elm,,1851,1819,,,1742,,,,7
-Elm,,1861,1729,,,1819,,,,7
-Elm,,1871,1803,,,1729,,,,7
-Elm,,1881,1795,,,1803,,,,7
-Elm,,1891,1779,,,1795,,,,7
-Elm,,1901,1798,,,1779,,,,6
-Elm,,1911,2140,,,1798,,,,4
-Elm,,1921,2738,,,2140,,,,3
-Elm,,1931,2570,,,2738,,,,3
-Elm,,1951,2402,,,2570,,,,5
-Elm,,1961,2492,,,2402,,,,6
-Elm,,1971,2886,,,2492,,,,7
-Elm,,1981,3223,,,2886,,,,7
-Elm,,1991,3194,,,3223,,,,8
-Elm,,2001,3295,,,3194,,,,8
-Elm,,2011,3962,,,3295,,,,8
-Ely,,1801,3948,,,0,,,,1
-Ely,,1811,4249,,,3948,,,,1
-Ely,,1821,5079,,,4249,,,,1
-Ely,,1831,6189,,,5079,,,,1
-Ely,,1841,6849,,,6189,,,,1
-Ely,,1851,7632,,,6849,,,,1
-Ely,,1861,7982,,,7632,,,,1
-Ely,,1871,8166,,,7982,,,,1
-Ely,,1881,8171,,,8166,,,,1
-Ely,,1891,8017,,,8171,,,,1
-Ely,,1901,7803,,,8017,,,,1
-Ely,,1911,7917,,,7803,,,,1
-Ely,,1921,7690,,,7917,,,,1
-Ely,,1931,8381,,,7690,,,,1
-Ely,,1951,9988,,,8381,,,,1
-Ely,,1961,9803,,,9988,,,,1
-Ely,,1971,9966,,,9803,,,,1
-Ely,,1981,10392,,,9966,,,,1
-Ely,,1991,11291,,,10392,,,,1
-Ely,,2001,15102,,,11291,,,,1
-Ely,,2011,20256,,,15102,,,,1
-Fenstanton,,1801,704,,,0,,,,
-,,1811,724,,,704,,,,
-,,1821,776,,,724,,,,
-,,1831,968,,,776,,,,
-,,1841,1032,,,968,,,,
-,,1851,1070,,,1032,,,,
-,,1861,1120,,,1070,,,,
-,,1871,1074,,,1120,,,,
-,,1881,1067,,,1074,,,,
-,,1891,975,,,1067,,,,
-,,1901,863,,,975,,,,
-,,1911,863,,,863,,,,
-,,1921,798,,,863,,,,
-,,1931,771,,,798,,,,
-,,1951,972,,,771,,,,
-,,1961,1061,,,972,,,,
-,,1971,1659,,,1061,,,,
-,,1981,2480,,,1659,,,,
-,,1991,2600,,,2480,,,,
-,,2001,2868,,,2600,,,,
-,,2011,3242,,,2868,,,,
-,,1801,,,,,,,,
-,,1811,,,,,,,,
-,,1821,,,,,,,,
-,,1831,,,,,,,,
-,,1841,,,,,,,,
-,,1851,,,,,,,,
-,,1861,,,,,,,,
-,,1871,,,,,,,,
-,,1881,,,,,,,,
-,,1891,,,,,,,,
-,,1901,,,,,,,,
-,,1911,,,,,,,,
-,,1921,,,,,,,,
-,,1931,,,,,,,,
-,,1951,,,,,,,,
-,,1961,,,,,,,,
-,,1971,,,,,,,,
-,,1981,,,,,,,,
-,,1991,,,,,,,,
-,,2001,,,,,,,,
-,,2011,,,,,,,,
+Name ,Group,Decade,Population,subGroup,ward_id,lastValue,colour,rank
+Bar Hill,Cambridgeshire,1971,674,South Cambridgeshire,Bar Hill,674,#00ffcc,11
+Bar Hill,Cambridgeshire,1981,2434,South Cambridgeshire,Bar Hill,674,#00ffcc,10
+Bar Hill,Cambridgeshire,1991,4285,South Cambridgeshire,Bar Hill,2434,#00ffcc,6
+Bar Hill,Cambridgeshire,2001,4233,South Cambridgeshire,Bar Hill,4285,#00ffcc,6
+Bar Hill,Cambridgeshire,2011,4032,South Cambridgeshire,Bar Hill,4233,#00ffcc,7
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1801,948,South Cambridgeshire,Bar Hill,0,#00ffcc,5
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1811,982,South Cambridgeshire,Bar Hill,948,#00ffcc,6
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1821,1213,South Cambridgeshire,Bar Hill,982,#00ffcc,6
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1831,1446,South Cambridgeshire,Bar Hill,1213,#00ffcc,5
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1841,1774,South Cambridgeshire,Bar Hill,1446,#00ffcc,5
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1851,2148,South Cambridgeshire,Bar Hill,1774,#00ffcc,5
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1861,2213,South Cambridgeshire,Bar Hill,2148,#00ffcc,4
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1871,2730,South Cambridgeshire,Bar Hill,2213,#00ffcc,3
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1881,2717,South Cambridgeshire,Bar Hill,2730,#00ffcc,3
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1891,2629,South Cambridgeshire,Bar Hill,2717,#00ffcc,3
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1901,1234,South Cambridgeshire,Bar Hill,2629,#00ffcc,7
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1911,1201,South Cambridgeshire,Bar Hill,1234,#00ffcc,7
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1921,1136,South Cambridgeshire,Bar Hill,1201,#00ffcc,7
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1931,1138,South Cambridgeshire,Bar Hill,1136,#00ffcc,7
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1951,2687,South Cambridgeshire,Bar Hill,1138,#00ffcc,3
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1961,2653,South Cambridgeshire,Bar Hill,2687,#00ffcc,5
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1971,3016,South Cambridgeshire,Bar Hill,2653,#00ffcc,6
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1981,4249,South Cambridgeshire,Bar Hill,3016,#00ffcc,5
+Bassingbourn-cum-Kneesworth,Cambridgeshire,1991,3439,South Cambridgeshire,Bar Hill,4249,#00ffcc,7
+Bassingbourn-cum-Kneesworth,Cambridgeshire,2001,4005,South Cambridgeshire,Bar Hill,3439,#00ffcc,7
+Bassingbourn-cum-Kneesworth,Cambridgeshire,2011,3583,South Cambridgeshire,Bar Hill,4005,#00ffcc,9
+Brampton,Cambridgeshire,1801,780,Huntingdonshire,Brampton,780,#C8BDFF,8
+Brampton,Cambridgeshire,1811,809,Huntingdonshire,Brampton,780,#C8BDFF,8
+Brampton,Cambridgeshire,1821,1064,Huntingdonshire,Brampton,809,#C8BDFF,7
+Brampton,Cambridgeshire,1831,1064,Huntingdonshire,Brampton,1064,#C8BDFF,8
+Brampton,Cambridgeshire,1841,1164,Huntingdonshire,Brampton,1064,#C8BDFF,9
+Brampton,Cambridgeshire,1851,1281,Huntingdonshire,Brampton,1164,#C8BDFF,8
+Brampton,Cambridgeshire,1861,1270,Huntingdonshire,Brampton,1281,#C8BDFF,8
+Brampton,Cambridgeshire,1871,1188,Huntingdonshire,Brampton,1270,#C8BDFF,8
+Brampton,Cambridgeshire,1881,1203,Huntingdonshire,Brampton,1188,#C8BDFF,8
+Brampton,Cambridgeshire,1891,1075,Huntingdonshire,Brampton,1203,#C8BDFF,8
+Brampton,Cambridgeshire,1901,1020,Huntingdonshire,Brampton,1075,#C8BDFF,9
+Brampton,Cambridgeshire,1911,895,Huntingdonshire,Brampton,1020,#C8BDFF,9
+Brampton,Cambridgeshire,1921,930,Huntingdonshire,Brampton,895,#C8BDFF,9
+Brampton,Cambridgeshire,1931,1031,Huntingdonshire,Brampton,930,#C8BDFF,9
+Brampton,Cambridgeshire,1951,1718,Huntingdonshire,Brampton,1031,#C8BDFF,8
+Brampton,Cambridgeshire,1961,3068,Huntingdonshire,Brampton,1718,#C8BDFF,3
+Brampton,Cambridgeshire,1971,4494,Huntingdonshire,Brampton,3068,#C8BDFF,3
+Brampton,Cambridgeshire,1981,4363,Huntingdonshire,Brampton,4494,#C8BDFF,3
+Brampton,Cambridgeshire,1991,4508,Huntingdonshire,Brampton,4363,#C8BDFF,4
+Brampton,Cambridgeshire,2001,5030,Huntingdonshire,Brampton,4508,#C8BDFF,5
+Brampton,Cambridgeshire,2011,4862,Huntingdonshire,Brampton,5030,#C8BDFF,6
+Buckden,Cambridgeshire,1801,869,Huntingdonshire,Buckden,869,#C8BDFF,6
+Buckden,Cambridgeshire,1811,924,Huntingdonshire,Buckden,869,#C8BDFF,7
+Buckden,Cambridgeshire,1821,973,Huntingdonshire,Buckden,924,#C8BDFF,8
+Buckden,Cambridgeshire,1831,1095,Huntingdonshire,Buckden,973,#C8BDFF,7
+Buckden,Cambridgeshire,1841,1209,Huntingdonshire,Buckden,1095,#C8BDFF,8
+Buckden,Cambridgeshire,1851,1172,Huntingdonshire,Buckden,1209,#C8BDFF,9
+Buckden,Cambridgeshire,1861,1099,Huntingdonshire,Buckden,1172,#C8BDFF,10
+Buckden,Cambridgeshire,1871,1009,Huntingdonshire,Buckden,1099,#C8BDFF,10
+Buckden,Cambridgeshire,1881,1044,Huntingdonshire,Buckden,1009,#C8BDFF,10
+Buckden,Cambridgeshire,1891,1048,Huntingdonshire,Buckden,1044,#C8BDFF,9
+Buckden,Cambridgeshire,1901,1021,Huntingdonshire,Buckden,1048,#C8BDFF,8
+Buckden,Cambridgeshire,1911,995,Huntingdonshire,Buckden,1021,#C8BDFF,8
+Buckden,Cambridgeshire,1921,998,Huntingdonshire,Buckden,995,#C8BDFF,8
+Buckden,Cambridgeshire,1931,1037,Huntingdonshire,Buckden,998,#C8BDFF,8
+Buckden,Cambridgeshire,1951,1057,Huntingdonshire,Buckden,1037,#C8BDFF,9
+Buckden,Cambridgeshire,1961,1158,Huntingdonshire,Buckden,1057,#C8BDFF,9
+Buckden,Cambridgeshire,1971,2010,Huntingdonshire,Buckden,1158,#C8BDFF,8
+Buckden,Cambridgeshire,1981,2604,Huntingdonshire,Buckden,2010,#C8BDFF,8
+Buckden,Cambridgeshire,1991,2457,Huntingdonshire,Buckden,2604,#C8BDFF,10
+Buckden,Cambridgeshire,2001,2515,Huntingdonshire,Buckden,2457,#C8BDFF,10
+Buckden,Cambridgeshire,2011,2805,Huntingdonshire,Buckden,2515,#C8BDFF,11
+Burwell,Cambridgeshire,1841,1705,South Cambridgeshire,Burwell,1705,#00ffcc,7
+Burwell,Cambridgeshire,1851,2040,South Cambridgeshire,Burwell,1705,#00ffcc,6
+Burwell,Cambridgeshire,1861,1876,South Cambridgeshire,Burwell,2040,#00ffcc,6
+Burwell,Cambridgeshire,1871,2023,South Cambridgeshire,Burwell,1876,#00ffcc,6
+Burwell,Cambridgeshire,1881,2023,South Cambridgeshire,Burwell,2023,#00ffcc,5
+Burwell,Cambridgeshire,1891,2023,South Cambridgeshire,Burwell,2023,#00ffcc,5
+Burwell,Cambridgeshire,1901,2023,South Cambridgeshire,Burwell,2023,#00ffcc,4
+Burwell,Cambridgeshire,1911,2023,South Cambridgeshire,Burwell,2023,#00ffcc,5
+Burwell,Cambridgeshire,1921,2023,South Cambridgeshire,Burwell,2023,#00ffcc,5
+Burwell,Cambridgeshire,1931,2023,South Cambridgeshire,Burwell,2023,#00ffcc,6
+Burwell,Cambridgeshire,1951,2023,South Cambridgeshire,Burwell,2023,#00ffcc,6
+Burwell,Cambridgeshire,1961,2734,South Cambridgeshire,Burwell,2023,#00ffcc,4
+Burwell,Cambridgeshire,1971,4032,South Cambridgeshire,Burwell,2734,#00ffcc,4
+Burwell,Cambridgeshire,1981,4257,South Cambridgeshire,Burwell,4032,#00ffcc,4
+Burwell,Cambridgeshire,1991,4531,South Cambridgeshire,Burwell,4257,#00ffcc,3
+Burwell,Cambridgeshire,2001,5833,South Cambridgeshire,Burwell,4531,#00ffcc,3
+Burwell,Cambridgeshire,2011,6309,South Cambridgeshire,Burwell,5833,#00ffcc,4
+Cambourne,Cambridgeshire,2011,8186,South Cambridgeshire,Burwell,8186,#00ffcc,3
+Chatteris,Cambridgeshire,1801,2393,Fenland,Chatteris,2393,#3333ff,2
+Chatteris,Cambridgeshire,1811,2580,Fenland,Chatteris,2393,#3333ff,2
+Chatteris,Cambridgeshire,1821,3280,Fenland,Chatteris,2580,#3333ff,2
+Chatteris,Cambridgeshire,1831,4177,Fenland,Chatteris,3280,#3333ff,2
+Chatteris,Cambridgeshire,1841,4813,Fenland,Chatteris,4177,#3333ff,2
+Chatteris,Cambridgeshire,1851,5138,Fenland,Chatteris,4813,#3333ff,2
+Chatteris,Cambridgeshire,1861,4731,Fenland,Chatteris,5138,#3333ff,2
+Chatteris,Cambridgeshire,1871,4765,Fenland,Chatteris,4731,#3333ff,2
+Chatteris,Cambridgeshire,1881,4712,Fenland,Chatteris,4765,#3333ff,2
+Chatteris,Cambridgeshire,1891,4587,Fenland,Chatteris,4712,#3333ff,2
+Chatteris,Cambridgeshire,1901,4711,Fenland,Chatteris,4587,#3333ff,2
+Chatteris,Cambridgeshire,1911,5259,Fenland,Chatteris,4711,#3333ff,2
+Chatteris,Cambridgeshire,1921,5084,Fenland,Chatteris,5259,#3333ff,2
+Chatteris,Cambridgeshire,1931,5153,Fenland,Chatteris,5084,#3333ff,2
+Chatteris,Cambridgeshire,1951,5552,Fenland,Chatteris,5153,#3333ff,2
+Chatteris,Cambridgeshire,1961,5505,Fenland,Chatteris,5552,#3333ff,2
+Chatteris,Cambridgeshire,1971,5578,Fenland,Chatteris,5505,#3333ff,2
+Chatteris,Cambridgeshire,1981,6215,Fenland,Chatteris,5578,#3333ff,2
+Chatteris,Cambridgeshire,1991,7138,Fenland,Chatteris,6215,#3333ff,2
+Chatteris,Cambridgeshire,2001,8820,Fenland,Chatteris,7138,#3333ff,2
+Chatteris,Cambridgeshire,2011,10453,Fenland,Chatteris,8820,#3333ff,2
+Cottenham,Cambridgeshire,1801,1088,South Cambridgeshire,Cottenham,1088,#00ffcc,3
+Cottenham,Cambridgeshire,1811,1224,South Cambridgeshire,Cottenham,1088,#00ffcc,3
+Cottenham,Cambridgeshire,1821,1488,South Cambridgeshire,Cottenham,1224,#00ffcc,3
+Cottenham,Cambridgeshire,1831,1635,South Cambridgeshire,Cottenham,1488,#00ffcc,4
+Cottenham,Cambridgeshire,1841,1833,South Cambridgeshire,Cottenham,1635,#00ffcc,4
+Cottenham,Cambridgeshire,1851,2314,South Cambridgeshire,Cottenham,1833,#00ffcc,3
+Cottenham,Cambridgeshire,1861,2415,South Cambridgeshire,Cottenham,2314,#00ffcc,3
+Cottenham,Cambridgeshire,1871,2496,South Cambridgeshire,Cottenham,2415,#00ffcc,4
+Cottenham,Cambridgeshire,1881,2458,South Cambridgeshire,Cottenham,2496,#00ffcc,4
+Cottenham,Cambridgeshire,1891,2517,South Cambridgeshire,Cottenham,2458,#00ffcc,4
+Cottenham,Cambridgeshire,1901,2393,South Cambridgeshire,Cottenham,2517,#00ffcc,3
+Cottenham,Cambridgeshire,1911,2416,South Cambridgeshire,Cottenham,2393,#00ffcc,3
+Cottenham,Cambridgeshire,1921,2470,South Cambridgeshire,Cottenham,2416,#00ffcc,4
+Cottenham,Cambridgeshire,1931,2386,South Cambridgeshire,Cottenham,2470,#00ffcc,4
+Cottenham,Cambridgeshire,1951,2440,South Cambridgeshire,Cottenham,2386,#00ffcc,4
+Cottenham,Cambridgeshire,1961,2415,South Cambridgeshire,Cottenham,2440,#00ffcc,7
+Cottenham,Cambridgeshire,1971,3540,South Cambridgeshire,Cottenham,2415,#00ffcc,5
+Cottenham,Cambridgeshire,1981,4125,South Cambridgeshire,Cottenham,3540,#00ffcc,6
+Cottenham,Cambridgeshire,1991,4393,South Cambridgeshire,Cottenham,4125,#00ffcc,5
+Cottenham,Cambridgeshire,2001,5652,South Cambridgeshire,Cottenham,4393,#00ffcc,4
+Cottenham,Cambridgeshire,2011,6095,South Cambridgeshire,Cottenham,5652,#00ffcc,5
+Downham,Cambridgeshire,1801,844,East Cambridgeshire,Downham,844,#ff5050,7
+Downham,Cambridgeshire,1811,1144,East Cambridgeshire,Downham,844,#ff5051,4
+Downham,Cambridgeshire,1821,1350,East Cambridgeshire,Downham,1144,#ff5052,5
+Downham,Cambridgeshire,1831,1722,East Cambridgeshire,Downham,1350,#ff5053,3
+Downham,Cambridgeshire,1841,2140,East Cambridgeshire,Downham,1722,#ff5054,3
+Downham,Cambridgeshire,1851,2299,East Cambridgeshire,Downham,2140,#ff5055,4
+Downham,Cambridgeshire,1861,2158,East Cambridgeshire,Downham,2299,#ff5056,5
+Downham,Cambridgeshire,1871,2201,East Cambridgeshire,Downham,2158,#ff5057,5
+Downham,Cambridgeshire,1881,1965,East Cambridgeshire,Downham,2201,#ff5058,6
+Downham,Cambridgeshire,1891,1873,East Cambridgeshire,Downham,1965,#ff5059,6
+Downham,Cambridgeshire,1901,1801,East Cambridgeshire,Downham,1873,#ff5060,5
+Downham,Cambridgeshire,1911,1887,East Cambridgeshire,Downham,1801,#ff5061,6
+Downham,Cambridgeshire,1921,1991,East Cambridgeshire,Downham,1887,#ff5062,6
+Downham,Cambridgeshire,1931,2044,East Cambridgeshire,Downham,1991,#ff5063,5
+Downham,Cambridgeshire,1951,1905,East Cambridgeshire,Downham,2044,#ff5064,7
+Downham,Cambridgeshire,1961,1800,East Cambridgeshire,Downham,1905,#ff5065,8
+Downham,Cambridgeshire,1971,1816,East Cambridgeshire,Downham,1800,#ff5066,9
+Downham,Cambridgeshire,1981,1948,East Cambridgeshire,Downham,1816,#ff5067,11
+Downham,Cambridgeshire,1991,2169,East Cambridgeshire,Downham,1948,#ff5068,11
+Downham,Cambridgeshire,2001,2409,East Cambridgeshire,Downham,2169,#ff5069,11
+Downham,Cambridgeshire,2011,2589,East Cambridgeshire,Downham,2409,#ff5070,12
+Elm,Cambridgeshire,1801,951,Fenland,Elm,951,#3333ff,4
+Elm,Cambridgeshire,1811,1020,Fenland,Elm,951,#3333ff,5
+Elm,Cambridgeshire,1821,1368,Fenland,Elm,1020,#3333ff,4
+Elm,Cambridgeshire,1831,1410,Fenland,Elm,1368,#3333ff,6
+Elm,Cambridgeshire,1841,1742,Fenland,Elm,1410,#3333ff,6
+Elm,Cambridgeshire,1851,1819,Fenland,Elm,1742,#3333ff,7
+Elm,Cambridgeshire,1861,1729,Fenland,Elm,1819,#3333ff,7
+Elm,Cambridgeshire,1871,1803,Fenland,Elm,1729,#3333ff,7
+Elm,Cambridgeshire,1881,1795,Fenland,Elm,1803,#3333ff,7
+Elm,Cambridgeshire,1891,1779,Fenland,Elm,1795,#3333ff,7
+Elm,Cambridgeshire,1901,1798,Fenland,Elm,1779,#3333ff,6
+Elm,Cambridgeshire,1911,2140,Fenland,Elm,1798,#3333ff,4
+Elm,Cambridgeshire,1921,2738,Fenland,Elm,2140,#3333ff,3
+Elm,Cambridgeshire,1931,2570,Fenland,Elm,2738,#3333ff,3
+Elm,Cambridgeshire,1951,2402,Fenland,Elm,2570,#3333ff,5
+Elm,Cambridgeshire,1961,2492,Fenland,Elm,2402,#3333ff,6
+Elm,Cambridgeshire,1971,2886,Fenland,Elm,2492,#3333ff,7
+Elm,Cambridgeshire,1981,3223,Fenland,Elm,2886,#3333ff,7
+Elm,Cambridgeshire,1991,3194,Fenland,Elm,3223,#3333ff,8
+Elm,Cambridgeshire,2001,3295,Fenland,Elm,3194,#3333ff,8
+Elm,Cambridgeshire,2011,3962,Fenland,Elm,3295,#3333ff,8
+Ely,Cambridgeshire,1801,3948,East Cambridgeshire,Ely,3948,#ff5069,1
+Ely,Cambridgeshire,1811,4249,East Cambridgeshire,Ely,3948,#ff5070,1
+Ely,Cambridgeshire,1821,5079,East Cambridgeshire,Ely,4249,#ff5071,1
+Ely,Cambridgeshire,1831,6189,East Cambridgeshire,Ely,5079,#ff5072,1
+Ely,Cambridgeshire,1841,6849,East Cambridgeshire,Ely,6189,#ff5073,1
+Ely,Cambridgeshire,1851,7632,East Cambridgeshire,Ely,6849,#ff5074,1
+Ely,Cambridgeshire,1861,7982,East Cambridgeshire,Ely,7632,#ff5075,1
+Ely,Cambridgeshire,1871,8166,East Cambridgeshire,Ely,7982,#ff5076,1
+Ely,Cambridgeshire,1881,8171,East Cambridgeshire,Ely,8166,#ff5077,1
+Ely,Cambridgeshire,1891,8017,East Cambridgeshire,Ely,8171,#ff5078,1
+Ely,Cambridgeshire,1901,7803,East Cambridgeshire,Ely,8017,#ff5079,1
+Ely,Cambridgeshire,1911,7917,East Cambridgeshire,Ely,7803,#ff5080,1
+Ely,Cambridgeshire,1921,7690,East Cambridgeshire,Ely,7917,#ff5081,1
+Ely,Cambridgeshire,1931,8381,East Cambridgeshire,Ely,7690,#ff5082,1
+Ely,Cambridgeshire,1951,9988,East Cambridgeshire,Ely,8381,#ff5083,1
+Ely,Cambridgeshire,1961,9803,East Cambridgeshire,Ely,9988,#ff5084,1
+Ely,Cambridgeshire,1971,9966,East Cambridgeshire,Ely,9803,#ff5085,1
+Ely,Cambridgeshire,1981,10392,East Cambridgeshire,Ely,9966,#ff5086,1
+Ely,Cambridgeshire,1991,11291,East Cambridgeshire,Ely,10392,#ff5087,1
+Ely,Cambridgeshire,2001,15102,East Cambridgeshire,Ely,11291,#ff5088,1
+Ely,Cambridgeshire,2011,20256,East Cambridgeshire,Ely,15102,#ff5089,1
+Fenstanton,Cambridgeshire,1801,704,Huntingdonshire,Fenstanton,704,#C8BDFF,9
+Fenstanton,Cambridgeshire,1811,724,Huntingdonshire,Fenstanton,704,#C8BDFF,9
+Fenstanton,Cambridgeshire,1821,776,Huntingdonshire,Fenstanton,724,#C8BDFF,9
+Fenstanton,Cambridgeshire,1831,968,Huntingdonshire,Fenstanton,776,#C8BDFF,9
+Fenstanton,Cambridgeshire,1841,1032,Huntingdonshire,Fenstanton,968,#C8BDFF,10
+Fenstanton,Cambridgeshire,1851,1070,Huntingdonshire,Fenstanton,1032,#C8BDFF,10
+Fenstanton,Cambridgeshire,1861,1120,Huntingdonshire,Fenstanton,1070,#C8BDFF,9
+Fenstanton,Cambridgeshire,1871,1074,Huntingdonshire,Fenstanton,1120,#C8BDFF,9
+Fenstanton,Cambridgeshire,1881,1067,Huntingdonshire,Fenstanton,1074,#C8BDFF,9
+Fenstanton,Cambridgeshire,1891,975,Huntingdonshire,Fenstanton,1067,#C8BDFF,10
+Fenstanton,Cambridgeshire,1901,863,Huntingdonshire,Fenstanton,975,#C8BDFF,10
+Fenstanton,Cambridgeshire,1911,863,Huntingdonshire,Fenstanton,863,#C8BDFF,10
+Fenstanton,Cambridgeshire,1921,798,Huntingdonshire,Fenstanton,863,#C8BDFF,10
+Fenstanton,Cambridgeshire,1931,771,Huntingdonshire,Fenstanton,798,#C8BDFF,10
+Fenstanton,Cambridgeshire,1951,972,Huntingdonshire,Fenstanton,771,#C8BDFF,10
+Fenstanton,Cambridgeshire,1961,1061,Huntingdonshire,Fenstanton,972,#C8BDFF,10
+Fenstanton,Cambridgeshire,1971,1659,Huntingdonshire,Fenstanton,1061,#C8BDFF,10
+Fenstanton,Cambridgeshire,1981,2480,Huntingdonshire,Fenstanton,1659,#C8BDFF,9
+Fenstanton,Cambridgeshire,1991,2600,Huntingdonshire,Fenstanton,2480,#C8BDFF,9
+Fenstanton,Cambridgeshire,2001,2868,Huntingdonshire,Fenstanton,2600,#C8BDFF,9
+Fenstanton,Cambridgeshire,2011,3242,Huntingdonshire,Fenstanton,2868,#C8BDFF,10
